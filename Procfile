@@ -1,0 +1,1 @@
+web: python rest-server.py --master --processes 4 --threads 2
